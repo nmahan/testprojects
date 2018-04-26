@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43" started-at="2018-04-22T00:34:17Z" finished-at="2018-04-22T00:34:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43" started-at="2018-04-22T00:34:17Z" finished-at="2018-04-22T00:34:17Z">
+      <class name="com.test.session.com.test.sample.testngexample">
+        <test-method status="PASS" signature="A()[pri:0, instance:com.test.session.com.test.sample.testngexample@61832929]" name="A" is-config="true" duration-ms="5" started-at="2018-04-22T00:34:17Z" finished-at="2018-04-22T00:34:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A -->
+        <test-method status="PASS" signature="B()[pri:0, instance:com.test.session.com.test.sample.testngexample@61832929]" name="B" duration-ms="4" started-at="2018-04-22T00:34:17Z" finished-at="2018-04-22T00:34:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B -->
+        <test-method status="PASS" signature="D()[pri:0, instance:com.test.session.com.test.sample.testngexample@61832929]" name="D" is-config="true" duration-ms="1" started-at="2018-04-22T00:34:17Z" finished-at="2018-04-22T00:34:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- D -->
+        <test-method status="PASS" signature="E()[pri:0, instance:com.test.session.com.test.sample.testngexample@61832929]" name="E" duration-ms="2" started-at="2018-04-22T00:34:17Z" finished-at="2018-04-22T00:34:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- E -->
+        <test-method status="PASS" signature="A()[pri:0, instance:com.test.session.com.test.sample.testngexample@61832929]" name="A" is-config="true" duration-ms="0" started-at="2018-04-22T00:34:17Z" finished-at="2018-04-22T00:34:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A -->
+        <test-method status="PASS" signature="D()[pri:0, instance:com.test.session.com.test.sample.testngexample@61832929]" name="D" is-config="true" duration-ms="1" started-at="2018-04-22T00:34:17Z" finished-at="2018-04-22T00:34:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- D -->
+      </class> <!-- com.test.session.com.test.sample.testngexample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
